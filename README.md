@@ -1,4 +1,4 @@
-# funcprogramming
+# funcprogramming using Vue 2.x (exploring functional programming techniques)
 
 ## Project setup
 ```
